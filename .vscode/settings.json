@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/6eedbca3-aa7c-45d3-b7d4-f264d458754c/resourceGroups/authAngularApp/providers/Microsoft.Web/sites/AuthAppAngular",
+    "appService.deploySubpath": "dist/auth-app"
+}
